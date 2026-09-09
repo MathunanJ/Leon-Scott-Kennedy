@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — Leon Scott Kennedy
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -6,21 +6,21 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
+|Mathunan JEYAKANTHAN / MathunanJ / CREA 2                           
 |            |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
+- [Nom 1] → JEYAKANTHAN
 - **[Nom 2] →**
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- Thème : Jeu vidéo
+- En une phrase : Survivez à la ville post-apocalyptique de Raccoon City 
+- Blind test envisagé : Un quizz pour tester les connaissances de l'univers Resident Evil
 
 ## Lancer le projet
 
